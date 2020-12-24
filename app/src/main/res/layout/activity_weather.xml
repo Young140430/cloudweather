@@ -33,6 +33,7 @@
                     <include layout="@layout/forecast"/>
                     <include layout="@layout/aqi"/>
                     <include layout="@layout/suggestion"/>
+                    <include layout="@layout/forecast_video"/>
                 </LinearLayout>
             </ScrollView>
         </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
